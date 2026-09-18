@@ -1,0 +1,9 @@
+numpy
+torch
+torchvision
+tqdm
+scikit-image
+pytorch-msssim
+pytorch-wavelets
+timm
+matplotlib
